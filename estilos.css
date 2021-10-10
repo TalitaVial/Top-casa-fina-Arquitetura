@@ -1,3 +1,13 @@
 #paineis-sobre{
   margin-top: 3rem;
 }
+
+.depoiments{
+  background: #0274d8c4;
+  padding: 3rem 2rem;
+  display: flex;
+  align-items: center;
+  color: #ffff;
+  text-transform: uppercase;
+  margin-bottom: 0;
+}
